@@ -6,6 +6,10 @@ This repo documents my journey following [Duck McSouls](https://github.com/quack
 
 I already have a [Steam](https://store.steampowered.com/app/1812820/Bitburner/) save that I work on, so for following this tutorial I'll be using the [online version](https://bitburner-official.github.io/).
 
+Text copied from the tutorial will be contained in a `quote` block where possible.
+
+> Like this
+
 ## Contents
 
 1. [Hello World](/01%20Hello%20World/Hello%20World.md)
