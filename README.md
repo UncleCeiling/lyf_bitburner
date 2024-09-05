@@ -8,7 +8,7 @@ I already have a [Steam](https://store.steampowered.com/app/1812820/Bitburner/) 
 
 ## Contents
 
-1. [Hello World](/01%20Hello%20World/)
+1. [Hello World](/01%20Hello%20World/Hello%20World.md)
 
 2. [Data, darta, dayta](/02%20Data,%20darta,%20dayta/)
 
@@ -24,4 +24,4 @@ I already have a [Steam](https://store.steampowered.com/app/1812820/Bitburner/) 
 
 8. [Ooey gooey](/08%20Ooey%20gooey/)
 
-9. [Wait, there's more](/09%20Wait,%20there's%20more/)
+9. [Wait, there's more](/09%20Wait,%20there's%20more/Wait,%20there's%20more.md)
